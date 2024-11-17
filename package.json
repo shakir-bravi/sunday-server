@@ -9,7 +9,8 @@
   "devDependencies": {},
   "type": "module",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon /hello.js",
+    "start": "node hello.js"
   },
   "keywords": [],
   "author": "",
